@@ -31,4 +31,4 @@ details summary > * {
 {% else %}
 
 ## Link a la clase de hoy
-* Ingresá al Notebook de hoy haciendo click [Acá](https://github.com/bioinformatica-iib/quimioinformatica/blob/019d664ff97e366ef0fcf4fc155c02e8e63e894f/_TPs/TP1/Curso_Quimioinform%C3%A1tica_dia_1.ipynb)
+* Ingresá al Notebook de hoy haciendo click [Acá](Curso_Quimioinformática_dia_1.ipynb)
