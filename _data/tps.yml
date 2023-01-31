@@ -1,0 +1,23 @@
+- title: 
+  images:
+    - link: TPs/TP1/featured.png
+      alt: The alt text for the image
+      description: |- 
+        [TP N°1. Conociendo RDKit](TP1/)
+      ratio: is-16by9
+    - link: TPs/TP2/featured.png
+      alt: The alt text for the image
+      description: |- 
+        [TP N°2. Trabajando con una lista de compuestos](TP2/)
+      ratio: is-16by9
+    - link: TPs/TP3/featured.png
+      alt: The alt text for the image
+      description: |- 
+        [TP N°3. Caracterización fisicoquímica ](TP3/)
+      ratio: is-16by9
+    - link: TPs/TP4/featured.png
+      alt: The alt text for the image
+      description: |- 
+        [TP N°4. Similitud de compuestos y clusterización](TP4/)
+      ratio: is-16by9
+    
