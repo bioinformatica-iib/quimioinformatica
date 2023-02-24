@@ -7,8 +7,8 @@ site_url: https://bioinformatica-iib.github.io/quimioinformatica/
 
 # repository
 # --- si el sitio está alojado en un repo, describirlo acá 
-# repo_name: '2022_introduccion_bioinformatica'
-# repo_url: https://github.com/bioinformatica-iib/2022_introduccion_bioinformatica
+# repo_name: 'quimioinformatica'
+# repo_url: https://github.com/bioinformatica-iib/quimioinformatica
 
 # theme 
 # --- customizar apariencia editando palette 
@@ -152,4 +152,4 @@ nav:
 
 # copyright
 # --- editar y ajustar de acuerdo al curso
-copyright: Copyright &copy; 2022 Area Bioinformatica UNSAM  
+copyright: Copyright &copy; 2023 Area Bioinformatica UNSAM  
