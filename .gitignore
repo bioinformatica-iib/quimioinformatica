@@ -1,6 +1,4 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-.bundle
+# MkDocs documentation
+site/
+# Github token
+token
