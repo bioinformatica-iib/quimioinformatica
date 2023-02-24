@@ -1,9 +1,9 @@
 # site
 # --- editar y ajustar de acuerdo al curso 
-site_name: Introducción a la Bioinformática
-site_description: "Sitio Web del Curso Introducción a la Bioinformática"
+site_name: Introducción Quimioinformática
+site_description: "Sitio Web del Curso Introducción Quimioinformática"
 #site_author: "Nombre Apellido"
-site_url: https://bioinformatica-iib.github.io/2022_introduccion_bioinformatica/
+site_url: https://bioinformatica-iib.github.io/quimioinformatica/
 
 # repository
 # --- si el sitio está alojado en un repo, describirlo acá 
@@ -136,22 +136,11 @@ nav:
     - Prácticos: 
         - 'practicos/inicio.md'
         #- TPs: 'practicos/tpsGrid.md'
-        - TP 1 - Linux: 'practicos/TP01_Linux/index.md'
-        - TP 2 - EMBOSS: 'practicos/TP02_EMBOSS/index.md'
-        - TP 3 - Alineamientos de a pares: 'practicos/TP03_Alineamientos/index.md'
-        - TP 4 - Búsqueda por similitud: 'practicos/TP04_Busqueda_por_similitud/index.md'
-        - TP 5 - Perfiles de secuencias: 'practicos/TP05_PSI-BLAST/index.md'
-        - TP 6 - Filogenias: 'practicos/TP06_Filogenia/index.md'
-        - TP 7 - HMMs & ANNs: 'practicos/TP07_HMM_ANN/index.md'
-        - TP 8a - R - Introducción: 'practicos/TP08a_R/index.md'
-        - TP 8b - R - Aplicación: 'practicos/TP08b_R/index.md'
-        - TP 9 - Predicción de Desorden: 'practicos/TP09_Desorden/index.md'
-        - TP 10 - Motivos Lineales: 'practicos/TP10_Motivos/index.md'
-        - TP 11 - Modelado por Homología: 'practicos/TP11_Modelado_Por_Homologia/index.md'
-        - TP 12a - Clustering: 'practicos/TP12a_Clustering/index.md'
-        - TP 12b - Data Mining: 'practicos/TP12b_Data_Mining/index.md'
-        - TP 13 - Short Read Mapping: 'practicos/TP13_Short-Read-Mapping/index.md'
-        - TP 14 - Genomica Comparativa: 'practicos/TP14_Genomica_Comparativa/index.md'
+        - TP 1 : 'practicos/TP01/index.md'
+        - TP 2: 'practicos/TP02/index.md'
+        - TP 3 : 'practicos/TP03/index.md'
+        - TP 4: 'practicos/TP04/index.md'
+
 
         #- Resumen: 'practicos/resumen.md'
 
