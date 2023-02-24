@@ -19,4 +19,4 @@ tags:
 
 ### Ayudantes de 1ra
 * Lic. Heli García Álvarez
-* Lic. Alejandro Ricci
+* Lic. Mercedes Didier Garnham
