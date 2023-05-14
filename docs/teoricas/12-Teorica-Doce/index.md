@@ -4,6 +4,7 @@ tags:
   - teoricas
 ---
 
+<!--
 ## Secuenciación y ensamblado de genomas 
  Clase teórica sobre métodos de secuenciación, ensamblado de genomas, mapeo de lecturas contra referencia, etc. Valores de calidad de base, cálculo de coberturas, algoritmos.
 
@@ -21,3 +22,4 @@ tags:
   * :fontawesome-regular-file-pdf: Rice, E. S., & Green, R. E. (2018). New Approaches for Genome Assembly and Scaffolding. Annual Review of Animal Biosciences, 7(1). doi:10.1146/annurev-animal-020518-115344. [PDF de estudio.](rice2018.pdf)
   * :paperclip: Ribeiro FJ, Przybylski D, Yin S, et al. Finished bacterial genomes from shotgun sequence data. Genome Res. 2012 Nov;22(11):2270-7. [doi:10.1101/gr.141515.112](https://doi.org/10.1101/gr.141515.112). PMID: 22829535; PMCID: PMC3483556.
   
+-->

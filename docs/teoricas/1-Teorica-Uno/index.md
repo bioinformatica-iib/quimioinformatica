@@ -9,6 +9,7 @@ tags:
 
 Docentes, modo de cursada, cronograma, evaluaciones, etc.
 
+<!--
  * :fontawesome-regular-file-pdf: [Slides](presentacionDeLaMateria-2022.pdf) 
  
  ![type:video](https://www.youtube.com/embed/_jwvRkxu588)
@@ -34,3 +35,4 @@ Docentes, modo de cursada, cronograma, evaluaciones, etc.
   * :paperclip: A Quick Introduction to Version Control with Git and GitHub. Blischak JD, Davenport ER, Wilson G (2016) [PLOS Computational Biology 12(1): e1004668](https://doi.org/10.1371/journal.pcbi.1004668)
   * :octicons-book-16: Introduction to Bioinformatics (2019), 4th Edition. Oxford University Press. Arthur M Lesk (hay dos copias en el lab). 
 
+-->

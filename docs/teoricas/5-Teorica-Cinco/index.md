@@ -4,6 +4,7 @@ tags:
   - teoricas
 ---
 
+<!--
 ## Información contenida en alineamientos múltiples
 
  Clase teórica información contenida en alineamientos múltiples
@@ -32,7 +33,6 @@ tags:
 
 ![type:video](https://www.youtube.com/embed/ZWxALGN_400)
 
- <!--
 ![type:video]()
 
 -->

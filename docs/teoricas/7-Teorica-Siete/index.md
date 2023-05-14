@@ -4,6 +4,7 @@ tags:
   - teoricas
 ---
 
+<!--
 ## Métodos de predicción de Machine Learning basados en datos (HMM y ANN)
 
  Clase teórica de hidden markov models y neural networks.
@@ -33,3 +34,4 @@ https://youtu.be/
 ### Material de lectura y consulta
 
 * :octicons-book-16: *Immunological Bioinformatics*. Ole Lund, Morten Nielsen, Claus Lundegaard, Can Kesmir, Søren Brunak. DOI: https://doi.org/10.7551/mitpress/3679.001.0001. The MIT Press (2005). [Chapters 3 and 4](./files/book_mniel_intro_ch3-4.pdf)
+-->

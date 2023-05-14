@@ -11,12 +11,14 @@ tags:
 * Dr. Fernán Agüero
 
 ### Profesores invitados
-* Dr. Morten Nielsen
-* Dra. Lucía B. Chemes
+* A definir
 
 ### Jefa de Trabajos Prácticos
 * Dra. Juliana Glavina
 
 ### Ayudantes de 1ra
-* Lic. Heli García Álvarez
 * Lic. Mercedes Didier Garnham
+* Lic. Guadalupe Romer
+
+### Ayudantes Ad-honorem
+* Sebastián Jinich
