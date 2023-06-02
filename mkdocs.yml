@@ -1,6 +1,6 @@
 # site
 # --- editar y ajustar de acuerdo al curso 
-site_name: Introducción Quimioinformática
+site_name: Quimioinformática en Python
 site_description: "Sitio Web del Curso Introducción Quimioinformática"
 #site_author: "Nombre Apellido"
 site_url: https://bioinformatica-iib.github.io/quimioinformatica/
@@ -33,14 +33,14 @@ theme:
     
   palette: 
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: blue
       toggle:
         icon: material/toggle-switch 
         name: Cambiar a modo oscuro
     - scheme: slate 
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: blue
       toggle: 
         icon: material/toggle-switch-off-outline
         name: Cambiar a modo claro
