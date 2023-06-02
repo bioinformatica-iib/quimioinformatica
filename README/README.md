@@ -8,7 +8,7 @@ Acabo de instalar esto siguiendo los pasos de abajo y estan bastante bien, pero 
 * Instalar Poetry segun las instrucciones de su [página](https://python-poetry.org/docs/). En Linux el comando por defecto es:
 
 ```
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+curl -sSL https://install.python-poetry.org | python3 -
 ```
 * En mi caso tuve que instalar *curl* antes siguiendo las instrucciones de la consola de Ubuntu y en el comando anterior tuve que reemplazar **python** por **python3**, que era la versión que tenía en la PC
 ```
