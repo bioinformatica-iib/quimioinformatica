@@ -47,12 +47,13 @@ Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática 
 * **Evaluación teórica:**
 Trabajo Final Grupal
 
+<!--
 * **Promoción:** 
 Todas las instancias evaluatorias (teórico + práctico) con puntaje de 7 o más.
 * **Examen Final:** En caso de instancias evaluatorias aprobadas con 5, o en caso de tener que recuperar. 
 * **Recursa:** En caso de no cumplir con requisito de asistencia o instancias evaluatorias no aprobadas.
   
-<!---
+
 ## Inscripción
 
 Para inscribirte vas a necesitar:
