@@ -11,7 +11,6 @@
 
 * Bases de Datos: PubChem, ChEMBL, SureChEMBL
 * Representación de estructuras químicas en Python usando RDKit (SMILES, SDF/Mol, InchI)
-* Faltaría definir parte práctica de ontologías
 * Calcular similitud: Fingerprints, Búsquedas por similitud química, Busquedas por subestructura
 * Caracterización fisicoquímica: Lipinski, RO3
 * Clusterización por PCA y según fingerprints 
