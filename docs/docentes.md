@@ -19,6 +19,3 @@ tags:
 ### Ayudantes de 1ra
 * Lic. Mercedes Didier Garnham
 * Lic. Guadalupe Romer
-
-### Ayudantes Ad-honorem
-* Sebastián Jinich
