@@ -22,7 +22,8 @@ Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática 
 ## Requisitos
 
 * Conocimientos de química
-* Manejo básico de computadoras. 
+* Manejo básico de computadoras.
+* Cuenta de Google (gmail)
 
 ## Costos
 
