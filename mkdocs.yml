@@ -14,8 +14,8 @@ site_url: https://bioinformatica-iib.github.io/quimioinformatica/
 # --- customizar apariencia editando palette 
 # --- consultar https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 theme:
-  logo: 'img/favicon.png'  # este logo es el que aparece al lado del nombre del curso
-  favicon: img/favicon.png # este logo es el que aparece en la pestaña del chrome
+  logo: 'img/favicon2.png'  # este logo es el que aparece al lado del nombre del curso
+  favicon: img/favicon2.png # este logo es el que aparece en la pestaña del chrome
   name: material
   language: es 
   features:
