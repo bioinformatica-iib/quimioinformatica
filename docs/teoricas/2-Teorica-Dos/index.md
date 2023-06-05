@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 2: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Bases de datos
 

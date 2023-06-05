@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 10: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Bioinformática Estructural: Modelado por Homología
 

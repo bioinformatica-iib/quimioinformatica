@@ -52,7 +52,7 @@ Todas las instancias evaluatorias (teórico + práctico) con puntaje de 7 o más
 * **Examen Final:** En caso de instancias evaluatorias aprobadas con 5, o en caso de tener que recuperar. 
 * **Recursa:** En caso de no cumplir con requisito de asistencia o instancias evaluatorias no aprobadas.
   
-
+<!---
 ## Inscripción
 
 Para inscribirte vas a necesitar:
@@ -62,9 +62,9 @@ Para inscribirte vas a necesitar:
 - Si sos posgrado, investigador o trabajas en la industria:
     * [x] Breve descripción de tu línea de trabajo
     * [x] Carta de motivación
-<!--
+
 - Si vas a solicitar beca:
--->
+
 ### Cierre de Inscripción
 
 01 de Junio, 2023
@@ -76,3 +76,4 @@ Los cupos para estudiantes de posgrado, investigadores y trabajadores de la indu
 Aquellas personas que sean aceptadas para el curso serán notficadas el 06 de Junio, 2023
 
 [Inscribirse](https://forms.gle/bsm4kCkggLhEvutB8){ .md-button .md-button--primary }
+-->

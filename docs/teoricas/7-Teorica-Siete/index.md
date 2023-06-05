@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 7: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Métodos de predicción de Machine Learning basados en datos (HMM y ANN)
 

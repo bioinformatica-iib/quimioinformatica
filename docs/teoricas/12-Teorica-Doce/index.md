@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 12: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Secuenciación y ensamblado de genomas 
  Clase teórica sobre métodos de secuenciación, ensamblado de genomas, mapeo de lecturas contra referencia, etc. Valores de calidad de base, cálculo de coberturas, algoritmos.

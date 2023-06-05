@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 3: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Alineamientos de a pares + Búsquedas de secuencias por similitud
  Clase teórica de alineamientos de secuencias (de a pares), Algoritmos, Matrices, y Búsquedas de secuencias por similitud contra bases de datos.

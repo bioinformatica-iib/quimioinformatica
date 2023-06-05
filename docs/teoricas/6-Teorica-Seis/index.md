@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 7: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Reconstruccion filogenetica
  Clase teórica de reconstrucción filogenética. Algoritmos, Alineamientos y Arboles.

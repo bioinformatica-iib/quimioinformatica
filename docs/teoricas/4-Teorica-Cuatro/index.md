@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 4: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Alineamientos múltiples
  Clase teórica de alineamientos múltiples

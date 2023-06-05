@@ -4,6 +4,10 @@ tags:
   - teoricas
 ---
 
+## Teórica 11: Titulo
+
+Algo sobre la clase
+
 <!--
 ## Análisis de Datos
  Clase teórica de análisis de datos y agrupamiento de datos (clustering). Algoritmos, métricas, reducción de dimensionalidad.
