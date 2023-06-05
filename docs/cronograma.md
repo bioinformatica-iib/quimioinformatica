@@ -21,6 +21,6 @@ tags:
 | Lunes, 03 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 7 - TP3. Caracterización fisicoquímica](/quimioinfomatica/practicos/TP03/) | M. Didier Garnham |
 | Jueves, 06 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 8 - Charla Docente Invitado | |
 | Lunes, 10 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 9 - TP4. Similitud de compuestos y clusterización](/quimioinfomatica/practicos/TP04/) | M. Didier Garnham |
-| Jueves, 13 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 10 - TP5. Trabajo Integrados](/quimioinfomatica/practicos/TP05/) | |
+| Jueves, 13 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 10 - TP5. Trabajo Integrador](/quimioinfomatica/practicos/TP05/) | |
 | Lunes, 17 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 11 - Trabajo Final | F. Agüero |
 | Jueves, 20 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 12 - Trabajo Final | F. Agüero |
