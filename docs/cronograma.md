@@ -8,6 +8,7 @@ tags:
   - feriados
 ---
 
+Este cronograma puede estar sujeto a modificaciones.
 
 | Fecha  { data-sort-method='none' }     | Hora  { data-sort-method='none' }   | Donde  { data-sort-method='none' }                                 | Clase  { data-sort-method='none' }      | Docente { data-sort-method='none' } | 
 | ----------- | -------- | :-------------------------------------: | :-----------  | :------ |
