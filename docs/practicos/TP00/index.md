@@ -22,7 +22,7 @@ Colab, o *Colaboratory*, permite escribir y ejecutar Python en nuestro navegador
 
 Una característica no muy amigable es que no se pueden editar al mismo tiempo los documentos de Google Colab (que a partir de ahora llamaremos Notebooks)
 
-Vayan a [https://colab.research.google.com/]{https://colab.research.google.com/}
+Vayan a [https://colab.research.google.com/](https://colab.research.google.com/)
 
 Y se les abre una ventana. En la parte inferior elijan: New Notebook
 
