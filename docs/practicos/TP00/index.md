@@ -8,7 +8,7 @@
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente
 --->
 
-* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1u8GVuKzyIyC2IkH8jQUHrn25V57hOtLN/view?usp=sharing)
+* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1d-WZ5kzSacqCap3OaI10AluEaiWrX3dI/view?usp=sharing)
 
 ## ¿Qué es Google Colab?
 
