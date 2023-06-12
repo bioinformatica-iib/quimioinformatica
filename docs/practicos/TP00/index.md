@@ -2,7 +2,7 @@
 
 # **TP 0**. Introducción a Google Colaboratory + Python { markdown data-toc-label = 'TP 0' }
 
-[:fontawesome-solid-download: Materiales]((https://colab.research.google.com/drive/1c5ehV4UMV4jtigrPAHn45vCG1LK02r1l?usp=sharing)){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Materiales](https://colab.research.google.com/drive/1c5ehV4UMV4jtigrPAHn45vCG1LK02r1l?usp=drive_link){ .md-button .md-button--primary }
 
 <!--
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente
