@@ -5,9 +5,12 @@ tags:
 ---
 
 
-## Presentación de la materia
+## Introducción a la Quimioinformática
 
-Docentes, modo de cursada, cronograma, evaluaciones, etc.
+![Banner](clase-1.png){ width="850" }
+
+:fontawesome-regular-file-pdf: [Slides](clase-1.pdf) 
+
 
 <!--
  * :fontawesome-regular-file-pdf: [Slides](presentacionDeLaMateria-2022.pdf) 
