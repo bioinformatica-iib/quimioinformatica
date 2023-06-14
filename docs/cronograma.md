@@ -14,7 +14,7 @@ Este cronograma puede estar sujeto a modificaciones.
 | ----------- | -------- | :-------------------------------------: | :-----------  | :------ |
 | Jueves, 08 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 1 - Presentación de la materia y TP0](/quimioinformatica/practicos/TP00/) | F. Agüero/J. Glavina |
 | Lunes, 12 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 2 - Teórica 1](/quimioinfomatica/teoricas/1-Teorica-Uno/) | F. Agüero |
-| Jueves, 15 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 3 - TP1. Introducción a Bases de Datos y Softwares Quimioinformáticos](/quimioinfomatica/teoricas/2-Teorica-Dos/) | M. Didier Garnham |
+| Jueves, 15 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 3 - TP1. Introducción a Bases de Datos y Softwares Quimioinformáticos](/quimioinformatica/practicos/TP01/) | M. Didier Garnham |
 | Lunes, 19 Junio 2023 |  |  | Feriado |  |
 | Jueves, 22 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 4- Teórica 2](/quimioinfomatica/teoricas/2-Teorica-Dos/) | F. Agüero |
 | Lunes, 26 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 5 - TP2. Bases de datos y listas de compuestos](/quimioinfomatica/practicos/TP02/) | M. Didier Garnham |
