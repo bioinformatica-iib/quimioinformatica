@@ -137,7 +137,7 @@ nav:
         - 'practicos/inicio.md'
         #- TPs: 'practicos/tpsGrid.md'
         - TP 0: 'practicos/TP00/index.md'
-        #- TP 1: 'practicos/TP01/index.md'
+        - TP 1: 'practicos/TP01/index.md'
         # - TP 2: 'practicos/TP02/index.md'
         # - TP 3: 'practicos/TP03/index.md'
         # - TP 4: 'practicos/TP04/index.md'
