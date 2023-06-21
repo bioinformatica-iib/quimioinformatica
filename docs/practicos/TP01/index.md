@@ -8,6 +8,8 @@
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente
 --->
 
+* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1HUecyMWHsp-GdO0NyMj4XEfHK6pgwj2x/view?usp=sharing)
+
 # 
 En este práctico vamos a ver las bases de datos más usadas que almacenan datos de compuestos químicos con sus bioactividades y los softwares que se pueden usar para analizar los datos disponibles 
 
