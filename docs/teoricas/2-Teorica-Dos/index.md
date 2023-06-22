@@ -12,9 +12,10 @@ tags:
 
  * :fontawesome-regular-file-pdf: [Slides](clase-2.pdf) 
 
-## Notebook 
+## Pyton Notebooks
 
 * :material-language-python: [fingerprinting_with_rdkit](fingerprinting_with_rdkit.ipynb)
+* :material-language-python: :material-github: [ESP-Sim Short Demonstration (3D Shape and Electrostatic Similarities)](https://github.com/hesther/espsim/blob/master/scripts/short_demonstration.ipynb)
 
 ## Material de lectura y consulta
 
