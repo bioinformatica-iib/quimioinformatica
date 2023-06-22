@@ -1,4 +1,4 @@
-![Banner](img/banner.jpg){ width="250", align="left" }
+![Banner](img/4.png){ width="250", align="left" }
 
 # **TP 2**. Trabajando con una lista de compuestos  { markdown data-toc-label='TP 2' }
 
