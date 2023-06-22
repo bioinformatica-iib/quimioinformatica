@@ -12,6 +12,9 @@ tags:
 
  * :fontawesome-regular-file-pdf: [Slides](clase-2.pdf) 
 
+## Notebook 
+
+* :material-language-python: [fingerprinting_with_rdkit](fingerprinting_with_rdkit.ipynb)
 
 ## Material de lectura y consulta
 
