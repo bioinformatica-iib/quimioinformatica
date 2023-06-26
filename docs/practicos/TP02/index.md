@@ -1,6 +1,6 @@
 ![Banner](img/4.png){ width="250", align="left" }
 
-# **TP 3**. Trabajando con una lista de compuestos  { markdown data-toc-label='TP 2' }
+# **TP 2**. Trabajando con una lista de compuestos  { markdown data-toc-label='TP 2' }
 
 
 [:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing){ .md-button .md-button--primary }
@@ -8,7 +8,7 @@
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
 -->
 
-* Datos [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing)
+* Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing)
 
 #
 
