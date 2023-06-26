@@ -1,6 +1,6 @@
 ![Banner](img/4.png){ width="250", align="left" }
 
-# **TP 2**. Trabajando con una lista de compuestos  { markdown data-toc-label='TP 2' }
+# **TP 2**. Bases de datos y listas de compuestos  { markdown data-toc-label='TP 2' }
 
 
 [:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing){ .md-button .md-button--primary }
