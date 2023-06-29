@@ -1,6 +1,6 @@
 ![Image](img/3.png){ width="250", align="left" }
 
-# **TP 2**. Introducción a Bases de Datos y Softwares Quimioinformáticos'
+# **TP 1**. Introducción a Bases de Datos y Softwares Quimioinformáticos
 
 [:fontawesome-solid-download: Materiales](https://colab.research.google.com/drive/1g-QhAABDzJpFO4Gqbp6Fssc6Q6LMV-bq?usp=drive_link){ .md-button .md-button--primary }
 

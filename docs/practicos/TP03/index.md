@@ -1,6 +1,6 @@
-![Banner](img/5.png){ width="250", align="left" }
+![Banner](img/5.png){ width="250", align="left"}
 
-# **TP 3**. Caracterización fisicoquímica**. index.md { markdown data-toc-label = 'TP 3' }
+# **TP 3**. Caracterización fisicoquímica { markdown data-toc-label = 'TP 3' }
 
 [:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/1EY_H0N262KwXXhEJQwc_ejARw5o_kVO1/view?usp=sharing){ .md-button .md-button--primary }
 
