@@ -6,9 +6,11 @@ tags:
 
 #### Algoritmos de clustering , métricas de validación y aplicaciones, y métricas de enriquecimiento, campañas de cribado retrospectivo y generación de señuelos
 
-![Banner](featured.png){ width="650" }
-
 * :fontawesome-regular-file-pdf: [Slides](slides-charla-alan-talevi.pdf) 
+
+![Banner](featured.png){ width="550" }
+
+
 
 ## Material de lectura y consulta
 
