@@ -10,6 +10,8 @@ Este es el botón para decargar materiales, en (#) hay que agregar el link corre
 
 * Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1x-tgkBqvDYFvQdd1PsCghT9Umtyo76F_/view?usp=drive_link)
 
+* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/19uDOB05BwhMpBUaVNXgjFLL4XC_Wzi86/view?usp=drive_link)
+
 ## Obtención parámetros fisicoquímicos
 
 La quimioinformática utiliza métodos computacionales para calcular y predecir propiedades fisicoquímicas a partir de la estructura química de un compuesto. Esto permite ahorrar tiempo y recursos al proporcionar estimaciones rápidas y confiables de estas propiedades sin necesidad de síntesis o experimentos costosos. Además, la quimioinformática es especialmente valiosa cuando se trabaja con grandes bases de datos de compuestos, donde la realización de experimentos para cada compuesto sería prácticamente imposible.
