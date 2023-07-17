@@ -13,10 +13,15 @@ El trabajo final se llevará a cabo durante la semana del 17 al 20 de julio. Cad
 
 # ¿Cuál es la modalidad de entrega?
 El trabajo será entregado en la clase del 20 de julio, cada grupo hará una presentación de 10 minutos con la resolución y 5 minutos para preguntas. Además, la notebook se deberá descargar y enviarse por un integrante del grupo a los mails de los docentes a las 10:30:
+
 * fernan@iib.unsam.edu.ar 
+
 * jglavina@iib.unsam.edu.ar
+
 * gromer@iib.unsam.edu.ar
+
 * mdidiergarnham@iib.unsam.edu.ar
+
 No hay fecha para recuperar el trabajo final. La asistencia es obligatoria.
 
 # ¿Cómo armar la presentación?
