@@ -2,7 +2,7 @@
 
 # **TP 4**. Similitud de compuestos y clusterización { markdown data-toc-label = 'TP 4' }
 
-[:fontawesome-solid-download: Materiales](https://colab.research.google.com/drive/1qXtkb7zgfUeabq0PBWUUY4xfZz_LlnGM?usp=sharing){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/1HSoTKlmr0etOc0lBIMpxiItKPi6Mc4pg/view?usp=sharing){ .md-button .md-button--primary }
 
 <!--
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
