@@ -1,3 +1,4 @@
+![build-deployment](https://github.com/bioinformatica-iib/quimioinformatica/actions/workflows/pages/pages-build-deployment/badge.svg)
 # Quimioinformatica en Python
 
 Curso Teórico / Práctico de Grado y Posgrado | UNSAM
