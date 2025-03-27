@@ -11,8 +11,7 @@ tags:
 * Dr. Fernán Agüero
 
 ### Profesores invitados
-* Dr. Alan Talevi
-* Marina Villacampa Fernández
+* TBD
 
 ### Jefa de Trabajos Prácticos
 * Dra. Juliana Glavina

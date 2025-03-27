@@ -2,7 +2,7 @@
 # --- editar y ajustar de acuerdo al curso 
 site_name: Quimioinformática en Python
 site_description: "Sitio Web del Curso Introducción Quimioinformática"
-#site_author: "Nombre Apellido"
+site_author: "Fernán Agüero"
 site_url: https://bioinformatica-iib.github.io/quimioinformatica/
 
 # repository
@@ -14,8 +14,8 @@ site_url: https://bioinformatica-iib.github.io/quimioinformatica/
 # --- customizar apariencia editando palette 
 # --- consultar https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 theme:
-  logo: 'img/favicon2.png'  # este logo es el que aparece al lado del nombre del curso
-  favicon: img/favicon2.png # este logo es el que aparece en la pestaña del chrome
+  logo: 'img/favicon.png'  # este logo es el que aparece al lado del nombre del curso
+  favicon: img/favicon.png # este logo es el que aparece en la pestaña del chrome
   name: material
   language: es 
   features:
@@ -33,16 +33,16 @@ theme:
     
   palette: 
     - scheme: default
-      primary: blue
-      accent: blue
+      primary: brown
+      accent: amber 
       toggle:
-        icon: material/toggle-switch 
+        icon: material/brightness-7
         name: Cambiar a modo oscuro
     - scheme: slate 
-      primary: blue
-      accent: blue
+      primary: brown
+      accent: amber
       toggle: 
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-4
         name: Cambiar a modo claro
 
 # plugins
@@ -103,8 +103,8 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js # Esto permite que las tablas se puedan ordenar según la columna. Lo que no vi es como hacerlo selectivo para cada tabla.
   - javascripts/tablesort.js
   - javascripts/mathjax.js # Esto es para formulas matematicas
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  #- https://polyfill.io/v3/polyfill.min.js?features=es6
 
 extra_css:
   - stylesheets/extra.css
@@ -157,4 +157,4 @@ nav:
 
 # copyright
 # --- editar y ajustar de acuerdo al curso
-copyright: Copyright &copy; 2023 Area Bioinformatica UNSAM  
+copyright: Copyright &copy; 2025 Area Bioinformatica UNSAM  
