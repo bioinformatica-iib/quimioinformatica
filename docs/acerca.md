@@ -30,17 +30,18 @@ Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática 
 
 ## Costos
 
-* **Alumnos de Grado UNSAM:** Gratis.
-* **Alumnos de Post-Grado UNSAM:** Gratis.
-* **Alumnos de Post-Grado de otras Universidades Públicas:** $5000
-* **Docentes Universidades Nacionales:** $5000
-* **Alumnos de Posgrado Universidades Privadas:** $15000
-* **Empresas/Profesionales Independientes:** $45000
+* **Alumnos de Grado UNSAM:** Sin costo. 
+* **Alumnos de Post-Grado UNSAM:** Sin costo. 
+* **Alumnos de Post-Grado de otras Universidades Públicas:** $30,000
+* **Docentes Universidades Nacionales:** $100,000
+* **Alumnos de Posgrado Universidades Privadas:** $200,000
+* **Empresas/Profesionales Independientes:** $250,000
 * **Alumnos / Docentes / Profesionales Internacionales:** USD $300
 
-## Horarios 1er Cuatrimestre 2023 (Junio-Julio) (Virtual)
+## Horarios 1er Cuatrimestre 2025 (TBD)
 
-* **Virtual:** Lunes y Jueves 9 a 12hs.
+* **Virtual:** TBD
+* **Presencial:** TBD
 
 ## Asistencia
 
