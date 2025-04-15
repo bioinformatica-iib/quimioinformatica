@@ -8,6 +8,9 @@ tags:
   - feriados
 ---
 
+!!! danger
+    El cronograma es de 2023. En breve actualizaremos con el nuevo cronograma para 2025
+
 Este cronograma puede estar sujeto a modificaciones.
 
 | Fecha  { data-sort-method='none' }     | Hora  { data-sort-method='none' }   | Donde  { data-sort-method='none' }                                 | Clase  { data-sort-method='none' }      | Docente { data-sort-method='none' } | 
