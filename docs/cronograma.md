@@ -15,16 +15,18 @@ Este cronograma puede estar sujeto a modificaciones.
 
 | Fecha  { data-sort-method='none' }     | Hora  { data-sort-method='none' }   | Donde  { data-sort-method='none' }                                 | Clase  { data-sort-method='none' }      | Docente { data-sort-method='none' } | 
 | ----------- | -------- | :-------------------------------------: | :-----------  | :------ |
-| Jueves, 08 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 1 - Presentación de la materia y TP0](practicos/TP00/index.md) | F. Agüero/J. Glavina |
-| Lunes, 12 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 2 - Teórica 1](teoricas/1-Teorica-Uno/index.md) | F. Agüero |
-| Jueves, 15 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 3 - TP1. Introducción a Bases de Datos y Softwares Quimioinformáticos](practicos/TP01/index.md) | M. Didier Garnham |
-| Lunes, 19 Junio 2023 |  |  | Feriado |  |
-| Jueves, 22 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 4 - Teórica 2](teoricas/2-Teorica-Dos/index.md) | F. Agüero |
-| Lunes, 26 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 5 - TP2. Bases de datos y listas de compuestos](practicos/TP02/index.md) | M. Didier Garnham |
-| Jueves, 29 Junio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 6 - TP3. Caracterización fisicoquímica](practicos/TP03/index.md) | M. Didier Garnham |
-| Lunes, 03 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 7 - Charla Docente Invitado: Clustering, screening retrospectivo y métricas de enriquecimiento | Alan Talevi |
-| Jueves, 06 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 8 - TP4. Similitud de compuestos y clusterización](practicos/TP04/index.md) | M. Didier Garnham |
-| Lunes, 10 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 9 - Charla Docente Invitado: Machine Learning aplicada a Quimioinformática | Marina Villacampa |
-| Jueves, 13 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | [Clase 10 - TP5. Trabajo integrador](practicos/TP05/index.md) | M. Didier Garnham |
-| Lunes, 17 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 11 - Trabajo Final | F. Agüero |
-| Jueves, 20 Julio 2023 | 9:00 hs |	:material-google-classroom: Online | Clase 12 - Trabajo Final | F. Agüero |
+| Martes, 13 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 1 - Presentación de la materia e Introducción a Python (Parte 1)  | F. Agüero/J. Glavina |
+| Jueves, 15 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 2 - Introducción a Python (Parte 2) | J. Glavina |
+| Martes, 20 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 3 - Teórica 1 | F. Agüero |
+| Jueves, 22 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 4 - TP1. Introducción a Bases de Datos y Softwares Quimioinformáticos | M. Didier Garnham |
+| Martes, 27 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 5 - Teórica 2 | F. Agüero |
+| Jueves, 29 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 6 - TP2. Bases de datos y listas de compuestos | M. Didier Garnham |
+| Martes, 03 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 7 - TP3. Caracterización fisicoquímica | M. Didier Garnham |
+| Jueves, 05 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 8 - Charla Docente Invitado |  |
+| Martes, 10 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 9 - TP4. Similitud de compuestos y clusterización | M. Didier Garnham |
+| Jueves, 12 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 10 - Introducción a Machine Learning | J. Glavina |
+| Martes, 17 Junio 2025 |  |  | Feriado |  |
+| Jueves, 19 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 11 - TP5. Uso de Machine Learning en Quimioinformática |  J. Glavina|
+| Martes, 24 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 12 - Trabajo Integrador | F. Agüero |
+| Jueves, 26 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 13 - Trabajo Final | F. Agüero |
+| Martes, 01 Julio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 14 - Trabajo Final | F. Agüero |
