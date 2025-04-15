@@ -8,8 +8,8 @@ tags:
   - feriados
 ---
 
-!!! danger
-    El cronograma es de 2023. En breve actualizaremos con el nuevo cronograma para 2025
+!!! danger "Cronograma desactualizado"
+    El cronograma es de 2023. En breve actualizaremos con el nuevo cronograma para 2025.
 
 Este cronograma puede estar sujeto a modificaciones.
 
