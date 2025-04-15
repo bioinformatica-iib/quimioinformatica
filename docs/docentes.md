@@ -19,3 +19,4 @@ tags:
 ### Ayudantes de 1ra
 * Lic. Mercedes Didier Garnham
 * Lic. Guadalupe Romer
+* Lic. Ramiro Quinteros
