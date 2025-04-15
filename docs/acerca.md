@@ -42,7 +42,7 @@ Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática 
 
 Laboratorio de Informática, Edificio TAREA / IIPC, Campus Miguelete UNSAM. El ingreso al campus más cercano es por calle Rodriguez Peña, cercano a la Estación Miguelete del Tren Mitre. [Cómo llegar?](https://www.unsam.edu.ar/home/como_llegar.php)
 
-![mapa del campus unsam](img/mapa-campus-unsam.png)
+![mapa del campus unsam](img/mapa-campus-unsam.png){ width="550" }
 
 
 ## Días y Horarios 1er Cuatrimestre 2025 
