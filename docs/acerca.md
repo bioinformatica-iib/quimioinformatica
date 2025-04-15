@@ -38,10 +38,16 @@ Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática 
 * **Empresas/Profesionales Independientes:** $250,000
 * **Alumnos / Docentes / Profesionales Internacionales:** USD $300
 
-## Horarios 1er Cuatrimestre 2025 (TBD)
+## Locación
 
-* **Virtual:** TBD
-* **Presencial:** TBD
+Laboratorio de Informática, Edificio TAREA / IIPC, Campus Miguelete UNSAM. El ingreso al campus más cercano es por calle Rodriguez Peña, cercano a la Estación Miguelete del Tren Mitre. [Cómo llegar?](https://www.unsam.edu.ar/home/como_llegar.php)
+
+![mapa del campus unsam](img/mapa-campus-unsam.png)
+
+
+## Días y Horarios 1er Cuatrimestre 2025 
+
+* **Presencial:** Martes y Jueves, de 9 a 13 horas.
 
 ## Asistencia
 
