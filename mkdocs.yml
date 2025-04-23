@@ -119,9 +119,9 @@ nav:
     - Docentes: 'docentes.md'
     - Teoricas:
         - teoricas/inicio.md
-        - Teórica 1: teoricas/1-Teorica-Uno/index.md
-        - Teórica 2: teoricas/2-Teorica-Dos/index.md
-        - Charla Alan Talevi: teoricas/3-Charla-Alan-Talevi/index.md
+        # - Teórica 1: teoricas/1-Teorica-Uno/index.md
+        # - Teórica 2: teoricas/2-Teorica-Dos/index.md
+        # - Charla Alan Talevi: teoricas/3-Charla-Alan-Talevi/index.md
         # - Teórica 4: teoricas/4-Teorica-Cuatro/index.md
         # - Teórica 5: teoricas/5-Teorica-Cinco/index.md
         # - Teórica 6: teoricas/6-Teorica-Seis/index.md
@@ -136,14 +136,14 @@ nav:
     - Prácticos: 
         - 'practicos/inicio.md'
         #- TPs: 'practicos/tpsGrid.md'
-        - TP 0: 'practicos/TP00/index.md'
-        - TP 1: 'practicos/TP01/index.md'
-        - TP 2: 'practicos/TP02/index.md'
-        - TP 3: 'practicos/TP03/index.md'
-        - TP 4: 'practicos/TP04/index.md'
-        - TP 5: 'practicos/TP05/index.md'
-        - TP Integrador: 'practicos/TP_Integrador/index.md'
-        - TP Final: 'practicos/TP_final/index.md'
+        # - TP 0: 'practicos/TP00/index.md'
+        # - TP 1: 'practicos/TP01/index.md'
+        # - TP 2: 'practicos/TP02/index.md'
+        # - TP 3: 'practicos/TP03/index.md'
+        # - TP 4: 'practicos/TP04/index.md'
+        # - TP 5: 'practicos/TP05/index.md'
+        # - TP Integrador: 'practicos/TP_Integrador/index.md'
+        # - TP Final: 'practicos/TP_final/index.md'
 
 
 

@@ -17,7 +17,9 @@ tags:
 -->
 ![Banner](img/intro.png){ width="850" }
 
+<!--
 :fontawesome-regular-file-pdf: [Slides Presentación del Curso](https://drive.google.com/file/d/1OI-t43zqHLL8JUUM9VmXg3mgSsnpLerI/view?usp=sharing)
+-->
 
 ## A quién está orientado
 Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática o carreras afines.
