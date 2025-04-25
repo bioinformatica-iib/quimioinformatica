@@ -24,6 +24,10 @@ tags:
 ## A quién está orientado
 Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática o carreras afines.
 
+## Inscripción
+Formulario de inscripción: [aquí](https://forms.gle/7QvkAYKZjucbh77Z6)
+
+
 ## Requisitos
 
 * Conocimientos de química
