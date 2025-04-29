@@ -46,9 +46,9 @@ Formulario de inscripción: [aquí](https://forms.gle/7QvkAYKZjucbh77Z6)
 
 ## Modalidad
 
-** Presencial ** para asistentes UNSAM, Universidades, Empresas y con domicilio en el Area Metropolitana Buenos Aires (AMBA). **No se aceptarán excepciones**. 
+**Presencial** para asistentes UNSAM, Universidades, Empresas y con domicilio en el Area Metropolitana Buenos Aires (AMBA). **No se aceptarán excepciones**. 
 
-** Virtual ** para asistentes con domicilio fuera del AMBA y del Exterior. El cupo para asistentes virtuales es **limitado**. 
+**Virtual** para asistentes con domicilio fuera del AMBA y del Exterior. El cupo para asistentes virtuales es **limitado**. 
 
 ## Locación
 

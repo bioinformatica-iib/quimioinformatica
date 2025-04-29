@@ -19,7 +19,7 @@ Este cronograma puede estar sujeto a modificaciones.
 | Martes, 27 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 5 - Teórica 2 | F. Agüero |
 | Jueves, 29 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 6 - TP2. Bases de datos y listas de compuestos | M. Didier Garnham |
 | Martes, 03 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 7 - TP3. Caracterización fisicoquímica | M. Didier Garnham |
-| Jueves, 05 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 8 - Charla Docente Invitado |  |
+| Jueves, 05 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 8 - Charla Dr. Alan Talevi |  |
 | Martes, 10 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 9 - TP4. Similitud de compuestos y clusterización | M. Didier Garnham |
 | Jueves, 12 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 10 - Introducción a Machine Learning | J. Glavina |
 | Martes, 17 Junio 2025 |  |  | Feriado |  |
