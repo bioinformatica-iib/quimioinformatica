@@ -32,11 +32,11 @@ Estudiantes o graduados de Química, Biología, Biotecnología, Bioinformática 
 
 * **Alumnos de Grado UNSAM:** Sin costo. 
 * **Alumnos de Post-Grado UNSAM:** Sin costo. 
-* **Alumnos de Post-Grado de otras Universidades Públicas:** $30,000
-* **Docentes Universidades Nacionales:** $100,000
-* **Alumnos de Posgrado Universidades Privadas:** $200,000
-* **Empresas/Profesionales Independientes:** $250,000
-* **Alumnos / Docentes / Profesionales Internacionales:** USD $300
+* **Alumnos de otras Universidades Públicas:** $50,000
+* **Docentes de Universidades Públicas:** $200,000
+* **Alumnos y Docentes de Universidades Privadas:** $300,000
+* **Empresas/Profesionales Independientes:** $400,000
+* **Alumnos / Docentes / Profesionales Internacionales:** USD $350
 
 ## Locación
 
