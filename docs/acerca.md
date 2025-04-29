@@ -44,6 +44,12 @@ Formulario de inscripción: [aquí](https://forms.gle/7QvkAYKZjucbh77Z6)
 * **Empresas/Profesionales Independientes:** $400,000
 * **Alumnos / Docentes / Profesionales Internacionales:** USD $350
 
+## Modalidad
+
+** Presencial ** para asistentes UNSAM, Universidades, Empresas y con domicilio en el Area Metropolitana Buenos Aires (AMBA). **No se aceptarán excepciones**. 
+
+** Virtual ** para asistentes con domicilio fuera del AMBA y del Exterior. El cupo para asistentes virtuales es **limitado**. 
+
 ## Locación
 
 Laboratorio de Informática, Edificio TAREA / IIPC, Campus Miguelete UNSAM. El ingreso al campus más cercano es por calle Rodriguez Peña, cercano a la Estación Miguelete del Tren Mitre. [Cómo llegar?](https://www.unsam.edu.ar/home/como_llegar.php)
