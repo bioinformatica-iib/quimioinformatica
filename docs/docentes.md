@@ -8,10 +8,10 @@ tags:
 
 ### Profesor Titular
 
-* Dr. Fernán Agüero
+* Dr. Fernán Agüero 
 
 ### Profesores invitados
-* TBD
+* Dr. Alan Talevi (Universidad Nacional de La Plata)
 
 ### Jefa de Trabajos Prácticos
 * Dra. Juliana Glavina
