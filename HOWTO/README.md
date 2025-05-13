@@ -1,36 +1,43 @@
-Página web de la materia: https://bioinformatica-iib.github.io/2022_introduccion_bioinformatica/
+Página web del curso: https://bioinformatica-iib.github.io/quimioinformatica/
 
-## Instalación 2022 en Ubuntu
+## Instalación 2025 en Ubuntu
 
-Acabo de instalar esto siguiendo los pasos de abajo y estan bastante bien, pero lo pongo detallado por si ayuda:
+Explicación detallada por si ayuda:
 
 * Clonar el repositorio en una carpeta de tu PC (nombre por defecto: `quimioinformatica`)
-* Instalar Poetry segun las instrucciones de su [página](https://python-poetry.org/docs/). En Linux el comando por defecto es:
-
-```
-curl -sSL https://install.python-poetry.org | python3 -
-```
-* En mi caso tuve que instalar *curl* antes siguiendo las instrucciones de la consola de Ubuntu y en el comando anterior tuve que reemplazar **python** por **python3**, que era la versión que tenía en la PC
-```
-#Estas dos lineas hay que correrlas solo si son necesarias. En un principio la de arriba deberia alcanzar
-sudo apt install curl
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3 -
-```
-* Poetry me pidió que corrá un comando para agregar poetry al *environment* asi que lo hice (esto hay que hacerlo cada vez que abris una consola nueva hasta que reinicias la compu, ahi ya es automático)
-```
-source $HOME/.poetry/env
-```
-* Una vez instalado Poetry, ir a la carpeta del repositorio de GIT (`quimioinformatica`) y correr:
-```
-poetry install 
-```
+* Instalar conda o miniconda o miniforge. [Instrucciones en el repo miniforge.](https://github.com/conda-forge/miniforge) 
+* Crear un entorno conda (yo lo llamo `mkdocs`) siguiendo las dependencias que vienen en el archivo `conda-linux-64.lock` en el repo: `conda conda create -n mkdocs --file conda-linux-64.lock`. 
+* Activar este entorno: `conda activate mkdocs`
+* Correr `poetry install` para instalar todas las dependencias en sus respectivas versiones. 
 * Esto va a instalar todos los requisitos de nuestra página en el sistema
 * Luego cada vez que se quiera probar el sitio localmente ir a la misma carpeta y correr:
+
 ```
-poetry shell 
+# cd <path-to-repo>, e.g. cd ~/git/quimioinformatica
+conda activate mkdocs
 mkdocs serve
 ``` 
-* La página web ahora está en http://127.0.0.1:8000 y se updatea en tiempo real si cambias cualquier archivo del GIT (sin tener que hacer nada).
+
+* La página web ahora está en http://127.0.0.1:8000 y se actualiza en tiempo real si cambias cualquier archivo del arbol (sin tener que hacer nada).
+
+* Después de probar todo localmente y ver que las páginas cargan y se ven bien se puede hacer `commit` al repo. Desde el módulo de control de versiones de VSCode, o en la terminal
+```
+# agregar TODOS los archivos modificados
+git add
+# o alternativamente agregar solo algunos, ej los que quieran que vayan en este commit particular
+git add docs/cronograma.md
+git add docs/contenidos.md
+
+# despues
+git commit -m "este commit agrega cambios en X, Y, Z"
+git push 
+```
+
+* Esto solamente hace push a Github, no genera las paginas web. Esto está bueno para ir actualizando paginas sin que se hagan publicas. Si estamos listos para publicar, usamos mkdocs para hacer deploy a `github-pages`
+
+```
+mkdocs gh-deploy
+```
 
 ## Template / Molde Mkdocs para cursos UNSAM
 
