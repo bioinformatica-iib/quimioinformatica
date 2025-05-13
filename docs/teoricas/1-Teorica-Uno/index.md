@@ -44,11 +44,16 @@ tags:
  * :paperclip: Schneider N, Sayle RA, Landrum GA. Get Your Atoms in Order--An Open-Source Implementation of a Novel and Robust Molecular Canonicalization Algorithm. J Chem Inf Model. 2015 55(10):2111-20. [doi: 10.1021/acs.jcim.5b00543](https://doi.org/10.1021/acs.jcim.5b00543). PMID: 26441310.
  * :paperclip: Krotko DG. Atomic ring invariant and Modified CANON extended connectivity algorithm for symmetry perception in molecular graphs and rigorous canonicalization of SMILES. J Cheminform. 2020 12(1):48. [doi: 10.1186/s13321-020-00453-4](https://doi.org/10.1186/s13321-020-00453-4). PMID: 33431026; PMCID: PMC7439248.
 
-### Bases de Datos y 
-* Heller SR, McNaught A, Pletnev I, Stein S, Tchekhovskoi D. InChI, the IUPAC International Chemical Identifier. J Cheminform. 2015 May 30;7:23. doi: 10.1186/s13321-015-0068-4. PMID: 26136848; PMCID: PMC4486400.
+### Bases de Datos 
+* :material-book-education: [PubChem Training Course](https://www.nlm.nih.gov/oet/ed/pubchem/tutorial/index.html).
 * Hähnke VD, Kim S, Bolton EE. PubChem chemical structure standardization. J Cheminform. 2018 10(1):36. 
 doi: 10.1186/s13321-018-0293-8. PMID: 30097821; PMCID: PMC6086778.
 
+### Descriptores e identificadores de moléculas
+
+* Heller SR, McNaught A, Pletnev I, Stein S, Tchekhovskoi D. InChI, the IUPAC International Chemical Identifier. J Cheminform. 2015 7:23. [doi: 10.1186/s13321-015-0068-4](https://doi.org/10.1186/s13321-015-0068-4). PMID: 26136848; PMCID: PMC4486400.
+* [Daylight: SMILES - A Simplified Chemical Language.](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html)
+* [Daylight: SMARTS - SMARTS - A Language for Describing Molecular Patterns.](https://www.daylight.com/dayhtml/doc/theory/theory.smarts.html)
 
 
 ### Chemical space
