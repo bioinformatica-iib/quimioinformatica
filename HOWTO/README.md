@@ -17,7 +17,27 @@ Explicación detallada por si ayuda:
 conda activate mkdocs
 mkdocs serve
 ``` 
+
 * La página web ahora está en http://127.0.0.1:8000 y se actualiza en tiempo real si cambias cualquier archivo del arbol (sin tener que hacer nada).
+
+* Después de probar todo localmente y ver que las páginas cargan y se ven bien se puede hacer `commit` al repo. Desde el módulo de control de versiones de VSCode, o en la terminal
+```
+# agregar TODOS los archivos modificados
+git add
+# o alternativamente agregar solo algunos, ej los que quieran que vayan en este commit particular
+git add docs/cronograma.md
+git add docs/contenidos.md
+
+# despues
+git commit -m "este commit agrega cambios en X, Y, Z"
+git push 
+```
+
+* Esto solamente hace push a Github, no genera las paginas web. Esto está bueno para ir actualizando paginas sin que se hagan publicas. Si estamos listos para publicar, usamos mkdocs para hacer deploy a `github-pages`
+
+```
+mkdocs gh-deploy
+```
 
 ## Template / Molde Mkdocs para cursos UNSAM
 
