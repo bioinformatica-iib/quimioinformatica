@@ -2,13 +2,24 @@
 
 # **TP 0**. Introducción a Google Colaboratory + Python { markdown data-toc-label = 'TP 0' }
 
-[:fontawesome-solid-download: Materiales](https://colab.research.google.com/drive/1c5ehV4UMV4jtigrPAHn45vCG1LK02r1l?usp=drive_link){ .md-button .md-button--primary }
+--
+
+## **Clase 0.1 – Variables, Condicionales y Ciclos**
+
+* Notebook [:fontawesome-solid-download: ipynb](Trabajo_Practico_0_Variables.ipynb){ .md-button .md-button--primary }
+* Slides [:fontawesome-solid-download: pdf](TP0_v001.pdf){ .md-button .md-button--primary }
 
 <!--
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente
 --->
 
-* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1d-WZ5kzSacqCap3OaI10AluEaiWrX3dI/view?usp=sharing)
+---
+
+## **Clase 0.2 – Listas y Data Frames**
+
+* Notebook [:fontawesome-solid-download: ipynb](Trabajo_Practico_0_DataFrames.ipynb){ .md-button .md-button--primary }
+
+---
 
 ## ¿Qué es Google Colab?
 
