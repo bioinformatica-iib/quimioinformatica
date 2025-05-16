@@ -1,8 +1,7 @@
-![Image](img/TP0.png){ width="250", align="left" }
+![Image](img/TP0.png){ width="200", align="left" }
 
-# **TP 0**. Introducción a Google Colaboratory + Python { markdown data-toc-label = 'TP 0' }
-
---
+# **TP 0** { markdown data-toc-label = 'TP 0' }
+# Introducción a Google Colaboratory + Python
 
 ## **Clase 0.1 – Variables, Condicionales y Ciclos**
 
