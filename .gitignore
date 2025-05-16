@@ -2,3 +2,10 @@
 site/
 # Github token
 token
+# Github codesapce venv
+venv/
+venv/bin/
+venv/compiler_compat
+venv/condabin
+# Github codespaces oryx-build-commands.txt
+oryx-build-commands.txt
