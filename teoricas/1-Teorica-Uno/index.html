@@ -597,6 +597,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Introducción a la Quimioinformática">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#slides-presentacion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Slides - Presentación
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -640,6 +655,15 @@
   <a href="#chemical-space" class="md-nav__link">
     <span class="md-ellipsis">
       Chemical space
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adjacency-matrices" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adjacency matrices
     </span>
   </a>
   
@@ -727,28 +751,6 @@
 
               
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../practicos/TP00/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    TP 0
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
           </ul>
         </nav>
       
@@ -776,7 +778,8 @@
 
 <div><h2 id="introduccion-a-la-quimioinformatica">Introducción a la Quimioinformática</h2>
 <p><img alt="Banner" src="clase-1.png" width="850"></p>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M64 464h48v48H64c-35.3 0-64-28.7-64-64V64C0 28.7 28.7 0 64 0h165.5c17 0 33.3 6.7 45.3 18.7l90.5 90.5c12 12 18.7 28.3 18.7 45.3V304h-48V160h-80c-17.7 0-32-14.3-32-32V48H64c-8.8 0-16 7.2-16 16v384c0 8.8 7.2 16 16 16m112-112h32c30.9 0 56 25.1 56 56s-25.1 56-56 56h-16v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V368c0-8.8 7.2-16 16-16m32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24h-16v48zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48h-32c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16m32 128c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16h-16v96zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16h-32v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16h-32v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V368"></path></svg></span> <a href="clase-1.pdf">Slides</a> </p>
+<h3 id="slides-presentacion">Slides - Presentación</h3>
+<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M64 464h48v48H64c-35.3 0-64-28.7-64-64V64C0 28.7 28.7 0 64 0h165.5c17 0 33.3 6.7 45.3 18.7l90.5 90.5c12 12 18.7 28.3 18.7 45.3V304h-48V160h-80c-17.7 0-32-14.3-32-32V48H64c-8.8 0-16 7.2-16 16v384c0 8.8 7.2 16 16 16m112-112h32c30.9 0 56 25.1 56 56s-25.1 56-56 56h-16v32c0 8.8-7.2 16-16 16s-16-7.2-16-16V368c0-8.8 7.2-16 16-16m32 80c13.3 0 24-10.7 24-24s-10.7-24-24-24h-16v48zm96-80h32c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48h-32c-8.8 0-16-7.2-16-16V368c0-8.8 7.2-16 16-16m32 128c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16h-16v96zm80-112c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16h-32v32h32c8.8 0 16 7.2 16 16s-7.2 16-16 16h-32v48c0 8.8-7.2 16-16 16s-16-7.2-16-16V368"></path></svg></span> <a href="clase1-2025.pdf">Slides Clase 1</a> </p>
 <!--
  * :fontawesome-regular-file-pdf: [Slides](presentacionDeLaMateria-2022.pdf) 
 
@@ -810,6 +813,7 @@
 <ul>
 <li><img alt="📎" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4ce.svg" title=":paperclip:"> Schneider N, Sayle RA, Landrum GA. Get Your Atoms in Order--An Open-Source Implementation of a Novel and Robust Molecular Canonicalization Algorithm. J Chem Inf Model. 2015 55(10):2111-20. <a href="https://doi.org/10.1021/acs.jcim.5b00543">doi: 10.1021/acs.jcim.5b00543</a>. PMID: 26441310.</li>
 <li><img alt="📎" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4ce.svg" title=":paperclip:"> Krotko DG. Atomic ring invariant and Modified CANON extended connectivity algorithm for symmetry perception in molecular graphs and rigorous canonicalization of SMILES. J Cheminform. 2020 12(1):48. <a href="https://doi.org/10.1186/s13321-020-00453-4">doi: 10.1186/s13321-020-00453-4</a>. PMID: 33431026; PMCID: PMC7439248.</li>
+<li><img alt="📎" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4ce.svg" title=":paperclip:"> Morgan, H.L. (1965) The Generation of a Unique Machine Description for Chemical Structures – A Technique Developed at Chemical Abstracts Service. J. Chem. Doc. 1965, 5, 107-113. </li>
 </ul>
 <h3 id="bases-de-datos">Bases de Datos</h3>
 <ul>
@@ -830,6 +834,11 @@ doi: 10.1186/s13321-018-0293-8. PMID: 30097821; PMCID: PMC6086778.</li>
 <li>Mullard A. The drug-maker's guide to the galaxy. Nature. 2017 549(7673):445-447. doi: 10.1038/549445a. PMID: 28959982.</li>
 <li><img alt="📎" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4ce.svg" title=":paperclip:"> Gorse, A.-D. (2006). Diversity in Medicinal Chemistry Space. Current Topics in Medicinal Chemistry, 6(1), 3–18. doi:10.2174/156802606775193310 </li>
 <li><img alt="📎" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4ce.svg" title=":paperclip:"> Hoffmann T, Gastreich M. The next level in chemical space navigation: going far beyond enumerable compound libraries. Drug Discov Today. 2019 May;24(5):1148-1156. doi: 10.1016/j.drudis.2019.02.013. PMID: 30851414.</li>
+</ul>
+<h3 id="adjacency-matrices">Adjacency matrices</h3>
+<ul>
+<li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24"><path d="M12.09 13.119c-.936 1.932-2.217 4.548-2.853 5.728-.616 1.074-1.127.931-1.532.029-1.406-3.321-4.293-9.144-5.651-12.409-.251-.601-.441-.987-.619-1.139q-.27-.225-1.122-.271-.314-.034-.313-.159v-.455l.052-.045c.924-.005 5.401 0 5.401 0l.051.045v.434q0 .177-.225.176l-.564.031c-.485.029-.727.164-.727.436 0 .135.053.33.166.601 1.082 2.646 4.818 10.521 4.818 10.521l.136.046 2.411-4.81-.482-1.067-1.658-3.264s-.318-.654-.428-.872c-.728-1.443-.712-1.518-1.447-1.617-.207-.023-.313-.05-.313-.149v-.468l.06-.045h4.292l.113.037v.451c0 .105-.076.15-.227.15l-.308.047c-.792.061-.661.381-.136 1.422l1.582 3.252 1.758-3.504c.293-.64.233-.801.111-.947-.07-.084-.305-.22-.812-.24l-.201-.021a.23.23 0 0 1-.145-.051.15.15 0 0 1-.067-.129v-.427l.061-.045c1.247-.008 4.043 0 4.043 0l.059.045v.436c0 .121-.059.178-.193.178-.646.03-.782.095-1.023.439-.12.186-.375.589-.646 1.039l-2.301 4.273-.065.135 2.792 5.712.17.048 4.396-10.438c.154-.422.129-.722-.064-.895-.197-.172-.346-.273-.857-.295l-.42-.016a.26.26 0 0 1-.152-.045c-.043-.029-.072-.075-.072-.119v-.436l.059-.045h4.961l.041.045v.437c0 .119-.074.18-.209.18-.648.03-1.127.18-1.443.421-.314.255-.557.616-.736 1.067 0 0-4.043 9.258-5.426 12.339-.525 1.007-1.053.917-1.503-.031-.571-1.171-1.773-3.786-2.646-5.71z"></path></svg></span> <a href="https://en.wikipedia.org/wiki/Adjacency_matrix">Adjacency Matrix.</a></li>
+<li>EMBL-EBI Course on Network analysis of protein interaction data. Section: <a href="https://www.ebi.ac.uk/training/online/courses/network-analysis-of-protein-interaction-data-an-introduction/introduction-to-graph-theory/graph-theory-adjacency-matrices/">Graph theory: adjacency matrices.</a> </li>
 </ul></div>
 
 
