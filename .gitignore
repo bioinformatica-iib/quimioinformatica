@@ -2,3 +2,5 @@
 site/
 # Github token
 token
+# Github codespaces venv
+venv/

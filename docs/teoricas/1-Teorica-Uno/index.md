@@ -9,7 +9,8 @@ tags:
 
 ![Banner](clase-1.png){ width="850" }
 
-:fontawesome-regular-file-pdf: [Slides](clase-1.pdf) 
+### Slides - Presentación
+:fontawesome-regular-file-pdf: [Slides Clase 1](clase1-2025.pdf) 
 
 
 <!--
@@ -43,6 +44,7 @@ tags:
 ### Canonización de moléculas
  * :paperclip: Schneider N, Sayle RA, Landrum GA. Get Your Atoms in Order--An Open-Source Implementation of a Novel and Robust Molecular Canonicalization Algorithm. J Chem Inf Model. 2015 55(10):2111-20. [doi: 10.1021/acs.jcim.5b00543](https://doi.org/10.1021/acs.jcim.5b00543). PMID: 26441310.
  * :paperclip: Krotko DG. Atomic ring invariant and Modified CANON extended connectivity algorithm for symmetry perception in molecular graphs and rigorous canonicalization of SMILES. J Cheminform. 2020 12(1):48. [doi: 10.1186/s13321-020-00453-4](https://doi.org/10.1186/s13321-020-00453-4). PMID: 33431026; PMCID: PMC7439248.
+ * :paperclip: Morgan, H.L. (1965) The Generation of a Unique Machine Description for Chemical Structures – A Technique Developed at Chemical Abstracts Service. J. Chem. Doc. 1965, 5, 107-113. 
 
 ### Bases de Datos 
 * :material-book-education: [PubChem Training Course](https://www.nlm.nih.gov/oet/ed/pubchem/tutorial/index.html).
@@ -64,3 +66,6 @@ doi: 10.1186/s13321-018-0293-8. PMID: 30097821; PMCID: PMC6086778.
 * :paperclip: Hoffmann T, Gastreich M. The next level in chemical space navigation: going far beyond enumerable compound libraries. Drug Discov Today. 2019 May;24(5):1148-1156. doi: 10.1016/j.drudis.2019.02.013. PMID: 30851414.
 
 
+### Adjacency matrices
+ * :simple-wikipedia: [Adjacency Matrix.](https://en.wikipedia.org/wiki/Adjacency_matrix)
+ * EMBL-EBI Course on Network analysis of protein interaction data. Section: [Graph theory: adjacency matrices.](https://www.ebi.ac.uk/training/online/courses/network-analysis-of-protein-interaction-data-an-introduction/introduction-to-graph-theory/graph-theory-adjacency-matrices/) 
