@@ -1,14 +1,17 @@
-![Image](img/3.png){ width="250", align="left" }
+![Image](img/3.png){ width="200", align="left" }
 
-# **TP 1**. Introducción a Bases de Datos y Softwares Quimioinformáticos
+# **TP 1**
+# Introducción a Bases de Datos y Softwares Quimioinformáticos
 
-[:fontawesome-solid-download: Materiales](https://colab.research.google.com/drive/1g-QhAABDzJpFO4Gqbp6Fssc6Q6LMV-bq?usp=drive_link){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_1.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-link: Colab Notebook](https://drive.google.com/file/d/1NG22Uyd9mss2yJsbzi_sos3KmzHyJlI0/view?usp=sharing){ .md-button .md-button--primary }
 
 <!--
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente
 --->
 
-* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1HUecyMWHsp-GdO0NyMj4XEfHK6pgwj2x/view?usp=sharing)
+* Slides [:fontawesome-solid-download: PDF](material/TP1.pdf)
+* Paper [:fontawesome-solid-download: PDF](material/Bento(2020).pdf)
 
 # 
 En este práctico vamos a ver las bases de datos más usadas que almacenan datos de compuestos químicos con sus bioactividades y los softwares que se pueden usar para analizar los datos disponibles 
