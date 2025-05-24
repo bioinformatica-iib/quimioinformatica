@@ -17,15 +17,17 @@ Este es el botón para decargar materiales, en (#) hay que agregar el link corre
 * Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1-Rt372mC7qS_S6-TjKq6_V-E5UPSHu0k/view?usp=sharing)
 -->
 
-# El material práctico de la clase estará disponible el miércoles
-# Este es el paper de esta semana:
+!!! abstract "Atención: El material práctico de la clase estará disponible el miércoles"
+
+### Este es el paper de esta semana:
+
 * Paper [:fontawesome-solid-download: PDF](material/Thomas(2024).pdf)
 
---
+
 
 La obtención de datos quimioinformáticos y el análisis a gran escala son dos áreas fundamentales que han transformado la investigación química y farmacéutica. Al aprovechar la enorme cantidad de datos disponibles y aplicar técnicas de análisis avanzadas, podemos obtener información valiosa para acelerar el descubrimiento de nuevos medicamentos y mejorar nuestra comprensión de los compuestos químicos.
 
-A lo largo de este práctico vamos a estar trabajando con los comandos básicos de RDKit y de Pandas para trabajar con una lista de moléculas. Las listas de moléculas las vamos a obtener de diferentes bases de datos.
+A lo largo de este práctico vamos a estar trabajando con los comandos básicos de RDKit y de Pandas para trabajar con bibliotecas químicas que vamos a obtener de diferentes bases de datos.
 
 ## Obtención de datos Quimioinformáticos
 

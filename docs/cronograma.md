@@ -17,7 +17,7 @@ Este cronograma puede estar sujeto a modificaciones.
 | Martes, 20 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 3 - Teórica 1](teoricas/1-Teorica-Uno/index.md) | F. Agüero |
 | Jueves, 22 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 4 - TP1. Introducción a Bases de Datos y Softwares Quimioinformáticos](practicos/TP01/index.md) | M. Didier Garnham |
 | Martes, 27 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 5 - Teórica 2 | F. Agüero |
-| Jueves, 29 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 6 - [TP2. Obtención y manejo de bibliotecas químicas](practicos/TP02/index.md) | M. Didier Garnham |
+| Jueves, 29 Mayo 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 6 - TP2. Obtención y manejo de bibliotecas químicas](practicos/TP02/index.md) | M. Didier Garnham |
 | Martes, 03 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 7 - TP3. Caracterización fisicoquímica | M. Didier Garnham |
 | Jueves, 05 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 8 - TP4. Similitud de compuestos y clusterización | M. Didier Garnham |
 | Martes, 10 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 9 - Introducción a Machine Learning | J. Glavina |
