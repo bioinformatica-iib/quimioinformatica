@@ -29,4 +29,4 @@ Los softwares quimioinformáticos son programas informáticos diseñados especí
 ## Material extra:
 - ChEMBL Data Deposition Guide: https://chembl.gitbook.io/chembl-data-deposition-guide
 - Chemical biology resources at EMBL-EBI, 2016-2024: [link](material/ChEMBL_symposium_2024.pdf)
-- SureChEMBL: [link](Surechembl.pdf)
+- SureChEMBL: [link](material/Surechembl.pdf)
