@@ -25,3 +25,8 @@ Estas bases de datos quimioinformáticas son una fuente valiosa de información 
 ## Softwares Quimioinformáticos
 
 Los softwares quimioinformáticos son programas informáticos diseñados específicamente para el análisis y procesamiento de datos químicos y bioquímicos. Estos programas combinan principios de la química y la informática para abordar problemas relacionados con la caracterización, modelado y análisis de sustancias químicas.
+
+## Material extra:
+- ChEMBL Data Deposition Guide: https://chembl.gitbook.io/chembl-data-deposition-guide
+- Chemical biology resources at EMBL-EBI, 2016-2024: [link](material/ChEMBL_symposium_2024.pdf)
+- SureChEMBL: [link](Surechembl.pdf)
