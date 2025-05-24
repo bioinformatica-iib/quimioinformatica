@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#tp-2-bases-de-datos-y-listas-de-compuestos" class="md-skip">
+        <a href="#tp-2" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -684,24 +684,32 @@
 
 
 
-<div><p><img _="," align="left" alt="Banner" src="img/4.png" width="250"></p>
-<h1 id="tp-2-bases-de-datos-y-listas-de-compuestos" markdown="markdown"><strong>TP 2</strong>. Bases de datos y listas de compuestos</h1>
-<p><a class="md-button md-button--primary" href="https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> Materiales</a></p>
+<div><p><img _="," align="left" alt="Banner" src="img/4.png" width="200"></p>
+<h1 id="tp-2"><strong>TP 2</strong></h1>
+<h1 id="obtencion-y-manejo-de-bibliotecas-quimicas" markdown="markdown">Obtención y manejo de bibliotecas químicas</h1>
+<!--
+[:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing){ .md-button .md-button--primary }
+-->
+
 <!--
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
 -->
 
+<!--
+* Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing)
+
+* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1-Rt372mC7qS_S6-TjKq6_V-E5UPSHu0k/view?usp=sharing)
+-->
+
+<div class="admonition abstract">
+<p class="admonition-title">Atención: El material práctico de la clase estará disponible el miércoles</p>
+</div>
+<h3 id="este-es-el-paper-de-esta-semana">Este es el paper de esta semana:</h3>
 <ul>
-<li>
-<p>Datos <a href="https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> .csv</a></p>
-</li>
-<li>
-<p>Slides <a href="https://drive.google.com/file/d/1-Rt372mC7qS_S6-TjKq6_V-E5UPSHu0k/view?usp=sharing"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> PDF</a></p>
-</li>
+<li>Paper <a href="material/Thomas%282024%29.pdf"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> PDF</a></li>
 </ul>
-<h1 id="_1"></h1>
 <p>La obtención de datos quimioinformáticos y el análisis a gran escala son dos áreas fundamentales que han transformado la investigación química y farmacéutica. Al aprovechar la enorme cantidad de datos disponibles y aplicar técnicas de análisis avanzadas, podemos obtener información valiosa para acelerar el descubrimiento de nuevos medicamentos y mejorar nuestra comprensión de los compuestos químicos.</p>
-<p>A lo largo de este práctico vamos a estar trabajando con los comandos básicos de RDKit y de Pandas para trabajar con una lista de moléculas. Las listas de moléculas las vamos a obtener de diferentes bases de datos.</p>
+<p>A lo largo de este práctico vamos a estar trabajando con los comandos básicos de RDKit y de Pandas para trabajar con bibliotecas químicas que vamos a obtener de diferentes bases de datos.</p>
 <h2 id="obtencion-de-datos-quimioinformaticos">Obtención de datos Quimioinformáticos</h2>
 <p>La obtención de datos quimioinformáticos ha generado un impacto significativo en el campo de la química y la investigación farmacéutica en las últimas décadas. Gracias al avance de la tecnología y la informática, ahora podemos recopilar, almacenar y analizar grandes volúmenes de información relacionada con compuestos químicos y sus propiedades. Estos datos, provenientes de diversas fuentes y métodos, proporcionan una sólida base para la investigación y el desarrollo de nuevos medicamentos, así como para profundizar en nuestra comprensión de la estructura y función de las moléculas.</p>
 <h2 id="analisis-de-datos-quimioinformaticos">Análisis de datos Quimioinformáticos</h2>
