@@ -10,7 +10,7 @@ tags:
 
 ## Slides 
 
- * :fontawesome-regular-file-pdf: [Slides](clase-2.pdf) 
+ * :fontawesome-regular-file-pdf: [Slides](clase2-2025.pdf) 
 
 ## Pyton Notebooks
 

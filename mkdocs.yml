@@ -120,7 +120,7 @@ nav:
     - Teoricas:
         - teoricas/inicio.md
         - Teórica 1: teoricas/1-Teorica-Uno/index.md
-        # - Teórica 2: teoricas/2-Teorica-Dos/index.md
+        - Teórica 2: teoricas/2-Teorica-Dos/index.md
         # - Charla Alan Talevi: teoricas/3-Charla-Alan-Talevi/index.md
         # - Teórica 4: teoricas/4-Teorica-Cuatro/index.md
         # - Teórica 5: teoricas/5-Teorica-Cinco/index.md
