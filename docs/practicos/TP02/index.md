@@ -1,21 +1,33 @@
-![Banner](img/4.png){ width="250", align="left" }
+![Banner](img/4.png){ width="200", align="left" }
 
-# **TP 2**. Bases de datos y listas de compuestos  { markdown data-toc-label='TP 2' }
+# **TP 2**
+#  Obtención y manejo de bibliotecas químicas  { markdown data-toc-label='TP 2' }
 
-
+<!--
 [:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing){ .md-button .md-button--primary }
+-->
+
 <!--
 Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
 -->
 
+<!--
 * Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing)
 
 * Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1-Rt372mC7qS_S6-TjKq6_V-E5UPSHu0k/view?usp=sharing)
-#
+-->
+
+!!! abstract "Atención: El material práctico de la clase estará disponible el miércoles"
+
+### Este es el paper de esta semana:
+
+* Paper [:fontawesome-solid-download: PDF](material/Thomas(2024).pdf)
+
+
 
 La obtención de datos quimioinformáticos y el análisis a gran escala son dos áreas fundamentales que han transformado la investigación química y farmacéutica. Al aprovechar la enorme cantidad de datos disponibles y aplicar técnicas de análisis avanzadas, podemos obtener información valiosa para acelerar el descubrimiento de nuevos medicamentos y mejorar nuestra comprensión de los compuestos químicos.
 
-A lo largo de este práctico vamos a estar trabajando con los comandos básicos de RDKit y de Pandas para trabajar con una lista de moléculas. Las listas de moléculas las vamos a obtener de diferentes bases de datos.
+A lo largo de este práctico vamos a estar trabajando con los comandos básicos de RDKit y de Pandas para trabajar con bibliotecas químicas que vamos a obtener de diferentes bases de datos.
 
 ## Obtención de datos Quimioinformáticos
 
