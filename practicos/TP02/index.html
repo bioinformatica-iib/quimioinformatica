@@ -750,25 +750,11 @@
 <div><p><img _="," align="left" alt="Banner" src="img/4.png" width="200"></p>
 <h1 id="tp-2"><strong>TP 2</strong></h1>
 <h1 id="obtencion-y-manejo-de-bibliotecas-quimicas" markdown="markdown">Obtención y manejo de bibliotecas químicas</h1>
-<!--
-[:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing){ .md-button .md-button--primary }
--->
-
-<!--
-Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
--->
-
-<!--
-* Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing)
-
-* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1-Rt372mC7qS_S6-TjKq6_V-E5UPSHu0k/view?usp=sharing)
--->
-
-<div class="admonition abstract">
-<p class="admonition-title">Atención: El material práctico de la clase estará disponible el miércoles</p>
-</div>
-<h3 id="este-es-el-paper-de-esta-semana">Este es el paper de esta semana:</h3>
+<p><a class="md-button md-button--primary" href="material/Trabajo_Practico_2.ipynb"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> Colab Notebook</a>
+<a class="md-button md-button--primary" href="https://drive.google.com/file/d/1SVMusirk8cYajEPHiXSfkXwV9T0gNRjY/view?usp=sharing"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 640 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6 31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5 50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5l112.2-112.3c31.5-31.5 82.5-31.5 114 0 27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0z"></path></svg></span> Colab Notebook</a></p>
 <ul>
+<li>Datos <a href="material/smiles.csv"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> .csv</a></li>
+<li>Slides <a href="material/TP2.pdf"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> PDF</a></li>
 <li>Paper <a href="material/Thomas%282024%29.pdf"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> PDF</a></li>
 </ul>
 <p>La obtención de datos quimioinformáticos y el análisis a gran escala son dos áreas fundamentales que han transformado la investigación química y farmacéutica. Al aprovechar la enorme cantidad de datos disponibles y aplicar técnicas de análisis avanzadas, podemos obtener información valiosa para acelerar el descubrimiento de nuevos medicamentos y mejorar nuestra comprensión de los compuestos químicos.</p>
