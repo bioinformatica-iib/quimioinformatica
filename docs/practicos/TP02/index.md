@@ -3,26 +3,13 @@
 # **TP 2**
 #  Obtención y manejo de bibliotecas químicas  { markdown data-toc-label='TP 2' }
 
-<!--
-[:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/128SkGbPPi1Wy-73i5-dJ5DKYOvogem4g/view?usp=sharing){ .md-button .md-button--primary }
--->
+[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_2.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-link: Colab Notebook](https://drive.google.com/file/d/1SVMusirk8cYajEPHiXSfkXwV9T0gNRjY/view?usp=sharing){ .md-button .md-button--primary }
 
-<!--
-Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
--->
 
-<!--
-* Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1k1u0gx8DeH7XMSwzPbaxOeAGcvFlD8Ss/view?usp=sharing)
-
-* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/1-Rt372mC7qS_S6-TjKq6_V-E5UPSHu0k/view?usp=sharing)
--->
-
-!!! abstract "Atención: El material práctico de la clase estará disponible el miércoles"
-
-### Este es el paper de esta semana:
-
+* Datos [:fontawesome-solid-download: .csv](material/smiles.csv)
+* Slides [:fontawesome-solid-download: PDF](material/TP2.pdf)
 * Paper [:fontawesome-solid-download: PDF](material/Thomas(2024).pdf)
-
 
 
 La obtención de datos quimioinformáticos y el análisis a gran escala son dos áreas fundamentales que han transformado la investigación química y farmacéutica. Al aprovechar la enorme cantidad de datos disponibles y aplicar técnicas de análisis avanzadas, podemos obtener información valiosa para acelerar el descubrimiento de nuevos medicamentos y mejorar nuestra comprensión de los compuestos químicos.
