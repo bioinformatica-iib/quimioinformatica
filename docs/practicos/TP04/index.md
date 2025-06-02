@@ -1,14 +1,18 @@
-![Image](img/6.png){ width="250", align="left" }
+![Image](img/6.png){ width="200", align="left" }
 
-# **TP 4**. Similitud de compuestos y clusterización { markdown data-toc-label = 'TP 4' }
-
-[:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/1HSoTKlmr0etOc0lBIMpxiItKPi6Mc4pg/view?usp=sharing){ .md-button .md-button--primary }
+# **TP 4**
+# Similitud de compuestos y clusterización { markdown data-toc-label = 'TP 4' }
 
 <!--
-Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
+[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_2.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-link: Colab Notebook](https://drive.google.com/file/d/1SVMusirk8cYajEPHiXSfkXwV9T0gNRjY/view?usp=sharing){ .md-button .md-button--primary }
+
+
+* Datos [:fontawesome-solid-download: .csv](material/smiles.csv)
+* Slides [:fontawesome-solid-download: PDF](material/TP2.pdf)
 -->
 
-* Slides [:fontawesome-solid-download: PDF]()
+* Paper [:fontawesome-solid-download: PDF](material/Safizadeh(2021).pdf)
 
 ## Similitud de compuestos y clusterización por fingerprints y PCA
 

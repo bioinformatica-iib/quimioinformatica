@@ -1,16 +1,16 @@
-![Banner](img/5.png){ width="250", align="left"}
+![Banner](img/5.png){ width="200", align="left"}
 
-# **TP 3**. Caracterización fisicoquímica 
+# **TP 3**
+# Caracterización fisicoquímica 
 
-[:fontawesome-solid-download: Materiales](https://drive.google.com/file/d/1EY_H0N262KwXXhEJQwc_ejARw5o_kVO1/view?usp=sharing){ .md-button .md-button--primary }
 
-<!--
-Este es el botón para decargar materiales, en (#) hay que agregar el link correspondiente.
--->
+[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_3.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-link: Colab Notebook](https://drive.google.com/file/d/1qYuAer2wGHUMVas1ktNQeLutt9afiVNP/view?usp=sharing){ .md-button .md-button--primary }
 
-* Datos [:fontawesome-solid-download: .csv](https://drive.google.com/file/d/1x-tgkBqvDYFvQdd1PsCghT9Umtyo76F_/view?usp=drive_link)
 
-* Slides [:fontawesome-solid-download: PDF](https://drive.google.com/file/d/19uDOB05BwhMpBUaVNXgjFLL4XC_Wzi86/view?usp=drive_link)
+* Datos [:fontawesome-solid-download: .csv](material/FDA_Drugs.csv)
+* Slides [:fontawesome-solid-download: PDF](material/TP3.pdf)
+* Paper [:fontawesome-solid-download: PDF](material/Heid(2024).pdf)
 
 ## Obtención parámetros fisicoquímicos
 
