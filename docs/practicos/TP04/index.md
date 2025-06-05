@@ -3,15 +3,12 @@
 # **TP 4**
 # Similitud de compuestos y clusterización { markdown data-toc-label = 'TP 4' }
 
-<!--
-[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_2.ipynb){ .md-button .md-button--primary }
-[:fontawesome-solid-link: Colab Notebook](https://drive.google.com/file/d/1SVMusirk8cYajEPHiXSfkXwV9T0gNRjY/view?usp=sharing){ .md-button .md-button--primary }
+
+[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_4.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-link: Colab Notebook](https://drive.google.com/file/d/1xHujxg8cj_m-5xa41sN4ULatgxgop424/view?usp=sharing){ .md-button .md-button--primary }
 
 
-* Datos [:fontawesome-solid-download: .csv](material/smiles.csv)
-* Slides [:fontawesome-solid-download: PDF](material/TP2.pdf)
--->
-
+* Slides [:fontawesome-solid-download: PDF](material/TP4.pdf)
 * Paper [:fontawesome-solid-download: PDF](material/Safizadeh(2021).pdf)
 
 ## Similitud de compuestos y clusterización por fingerprints y PCA
