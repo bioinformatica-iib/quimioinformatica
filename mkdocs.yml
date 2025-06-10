@@ -141,7 +141,7 @@ nav:
         - TP 2: 'practicos/TP02/index.md'
         - TP 3: 'practicos/TP03/index.md'
         - TP 4: 'practicos/TP04/index.md'
-        # - TP 5: 'practicos/TP05/index.md'
+        - TP 5: 'practicos/TP05/index.md'
         # - TP Integrador: 'practicos/TP_Integrador/index.md'
         # - TP Final: 'practicos/TP_final/index.md'
 
