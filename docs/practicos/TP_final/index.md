@@ -2,6 +2,9 @@
 
 <center> <h1> Consignas del Trabajo Práctico Final </h1> </center>
 
+!!! abstract "En este formulario pueden cargar el tema seleccionado para el trabajo final (Subir una respuesta por grupo)."
+[:fontawesome-solid-download: Formulario para el tema del trabajo final](https://forms.gle/q6cAneUpSt39NxrD9){ .md-button .md-button--primary }
+
 ## ¿En qué consiste el trabajo final?
 
 El trabajo final consistirá en el diseño y ejecución de un análisis quimioinformático a partir de un conjunto de datos seleccionado por cada grupo. El objetivo es aplicar de manera integrada las herramientas vistas durante el curso para abordar una pregunta relevante dentro del ámbito de la quimioinformática. El trabajo se realizará en grupos, utilizando Google Colab, e incluirá una presentación final y la entrega de una notebook comentada.

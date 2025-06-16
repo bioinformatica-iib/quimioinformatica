@@ -3,10 +3,10 @@
 # **TP 5**
 # Uso de Machine Learning en Quimioinformática { markdown data-toc-label = 'TP 5' }
 
-[:fontawesome-solid-download: Colab Notebook](material/ML_Parte_1_VC.ipynb){ .md-button .md-button--primary }
-[:fontawesome-solid-link: Colab Notebook](https://colab.research.google.com/drive/1kvBS68KwW1yqxVYXCubEnnTOper22wj-?usp=sharing){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Colab Notebook - parte 1](material/ML_Parte_1_VC.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Colab Notebook - parte 2](material/ML_Parte_II.ipynb){ .md-button .md-button--primary }
 
-
+* Slides [:fontawesome-solid-download: PDF](material/Teorica_ML.pdf)
 * Datos [:fontawesome-solid-download: esol.csv](material/esol.csv)
 * Datos [:fontawesome-solid-download: BBB-dataset.csv](material/BBB-dataset.csv)
 * Datos [:fontawesome-solid-download: enterovirus_unique.csv](material/enterovirus_unique.csv)
