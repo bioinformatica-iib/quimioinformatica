@@ -22,7 +22,7 @@ Este cronograma puede estar sujeto a modificaciones.
 | Jueves, 05 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 8 - TP4. Similitud de compuestos y clusterización](practicos/TP04/index.md) | M. Didier Garnham |
 | Martes, 10 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 9 - Introducción a Machine Learning](practicos/TP05/index.md) | J. Glavina |
 | Jueves, 12 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 10 - TP5. Uso de Machine Learning en Quimioinformática](practicos/TP05/index.md) |  J. Glavina | 
-| Martes, 17 Junio 2025 |  :no_entry: | :no_entry: | Feriado | :man_gesturing_no_tone3: |
+| Martes, 17 Junio 2025 | 9:00 hs | :material-google-classroom: Virtual | Trabajo en grupos | |
 | Jueves, 19 Junio 2025 | 10:00 hs |	:material-google-classroom: Presencial | Clase 11 - Charla Invitado  | Dr. Alan Talevi |
 | Martes, 24 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 12 - Trabajo Integrador | F. Agüero |
 | Jueves, 26 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 13 - Trabajo Final | F. Agüero |
