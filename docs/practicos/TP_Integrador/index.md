@@ -1,12 +1,19 @@
-![Image](img/8.png){ width="250", align="left" }
+![Image](img/8.png){ width="200", align="left" }
 
-# **TP Integrador**. Trabajo Práctico Integrador { markdown data-toc-label = 'TP Integrador' }
+# **TP Integrador**. 
+#Trabajo Práctico Integrador { markdown data-toc-label = 'TP Integrador' }
 
-[:fontawesome-solid-download: Materiales](https://colab.research.google.com/drive/18oAnNq4HvV_07DNkRS9HJeoQureeODv-?usp=sharing){ .md-button .md-button--primary }
+[:fontawesome-solid-download: Colab Notebook](material/Trabajo_Practico_Integrador.ipynb){ .md-button .md-button--primary }
+[:fontawesome-solid-link: Colab Notebook](https://colab.research.google.com/drive/1Wtz9SpvBYOhCvs1GFKryxrVRnRGbWm3w?usp=sharing){ .md-button .md-button--primary }
 
-[:fontawesome-solid-download: Datos](https://drive.google.com/drive/folders/1CTrfhUCp0aCHCq91BPmLzAE5aGFAodW0?usp=sharing){ .md-button .md-button--primary }
+* Datos [:fontawesome-solid-download: BBB-dataset.csv](material/BBB-dataset.csv)
+* Datos [:fontawesome-solid-download: HIA-dataset.csv](material/HIA-dataset.csv)
+* Datos [:fontawesome-solid-download: FDA-validation.csv](material/FDA-validation)
 
-[:fontawesome-solid-download: Resolución](https://colab.research.google.com/drive/1734p-rFCEH9khFsfZznjUoNGJQMcJ3RV?usp=sharing){ .md-button .md-button--primary }
+<!--
+[:fontawesome-solid-download: Resolución](https://colab.research.google.com/drive/1KcMcjjIA9meVLNOTBaqauirx0qccLrsU?usp=sharing){ .md-button .md-button--primary }
+* Paper [:fontawesome-solid-download: PDF](material/Daiana(2016).pdf)
+--> 
 
 # Introducción
 En el campo de la quimioinformática, el estudio de las propiedades TPSA (Área de Superficie Polar Total) y LogP (Logaritmo del Coeficiente de Partición Octanol-Agua) ha demostrado ser crucial en la evaluación y predicción de las características y comportamientos de los compuestos químicos. 
@@ -43,6 +50,6 @@ Tendrán acceso a tres conjuntos de datos:
 * Set de Datos 2: Lista de moléculas con permeación conocida a través de la barrera hematoencefálica (BBB),
 * Set de Datos 3: Lista de moléculas aprobadas por la Administración de Alimentos y Medicamentos (FDA) con evidencia experimental de HIA y BBB.
 
-Los primeros dos conjuntos de datos se utilizarán para definir el rango de parámetros en el cual los compuestos exhiben una buena HIA y permeación de la BBB. Al analizar las propiedades TPSA y LogP de las moléculas en los conjuntos de datos de HIA conocida y BBB conocida, podrás establecer umbrales y rangos específicos que se correlacionen con estas características deseadas. Esto permitirá identificar las propiedades moleculares óptimas que favorecen una buena HIA y permeación de la BBB.
+Los primeros dos conjuntos de datos se utilizarán para definir el rango de parámetros en el cual los compuestos exhiben una buena HIA y permeación de la BBB. Al analizar las propiedades TPSA y LogP de las moléculas en los conjuntos de datos de HIA conocida y BBB conocida, podrás establecer umbrales y rangos específicos que se correlacionen con estas características deseadas. Además, se podrá entrenar modelos de inteligencia artificial. Esto permitirá identificar las propiedades moleculares óptimas que favorecen una buena HIA y permeación de la BBB.
 
 Una vez que se hayan definido estos rangos de parámetros, el tercer conjunto de datos, se utilizará para validar la estrategia. Al aplicar los umbrales y rangos previamente definidos a este conjunto de datos, podrás evaluar si las propiedades TPSA y LogP de estas moléculas corresponden con la evidencia experimental. Si los resultados concuerdan con las expectativas, esto proporcionará evidencia de la eficacia de la estrategia en la identificación de compuestos con una buena HIA y permeación de la BBB.
