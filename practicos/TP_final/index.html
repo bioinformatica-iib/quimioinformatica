@@ -15,7 +15,7 @@
         <link rel="canonical" href="https://bioinformatica-iib.github.io/quimioinformatica/practicos/TP_final/">
       
       
-        <link rel="prev" href="../TP05/">
+        <link rel="prev" href="../TP_Integrador/">
       
       
       
@@ -784,6 +784,28 @@
                 
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="../TP_Integrador/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    TP Integrador
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -877,6 +899,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#resumen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Resumen
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -911,10 +942,26 @@
 
 <div><p><img _="," align="center" alt="Image" src="img/7.png" width="1000"></p>
 <p></p><center> <h1> Consignas del Trabajo Práctico Final </h1> </center>
+<!--
+!!! abstract "En este formulario pueden cargar el tema seleccionado para el trabajo final (Subir una respuesta por grupo)."
+[:fontawesome-solid-download: Formulario para el tema del trabajo final](https://forms.gle/q6cAneUpSt39NxrD9){ .md-button .md-button--primary }
+-->
+
 <div class="admonition abstract">
-<p class="admonition-title">En este formulario pueden cargar el tema seleccionado para el trabajo final (Subir una respuesta por grupo).</p>
+<p class="admonition-title">Modalidad de entrega</p>
 </div>
-<p><a class="md-button md-button--primary" href="https://forms.gle/q6cAneUpSt39NxrD9"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v242.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352zm368 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"></path></svg></span> Formulario para el tema del trabajo final</a></p>
+<p><strong>Presentación oral:</strong><br>
+Jueves 26 de junio y martes 01 de julio durante la clase.<br>
+Cada grupo tendrá <strong>15 minutos para presentar</strong> su trabajo, seguidos de <strong>5 minutos para preguntas</strong>.</p>
+<p><strong>Entrega escrita:</strong><br>
+Enviar la notebook (formato <code>.ipynb</code>, preferentemente desde Google Colab) <strong>antes del miércoles 25 de junio a las 23:59 hs</strong> a los siguientes mails:</p>
+<ul>
+<li>fernan@iib.unsam.edu.ar</li>
+<li>jglavina@iib.unsam.edu.ar</li>
+<li>gromer@iib.unsam.edu.ar</li>
+<li>mdidiergarnham@iib.unsam.edu.ar</li>
+</ul>
+<hr>
 <h2 id="en-que-consiste-el-trabajo-final">¿En qué consiste el trabajo final?</h2>
 <p>El trabajo final consistirá en el diseño y ejecución de un análisis quimioinformático a partir de un conjunto de datos seleccionado por cada grupo. El objetivo es aplicar de manera integrada las herramientas vistas durante el curso para abordar una pregunta relevante dentro del ámbito de la quimioinformática. El trabajo se realizará en grupos, utilizando Google Colab, e incluirá una presentación final y la entrega de una notebook comentada.</p>
 <h2 id="que-tipo-de-datos-pueden-usar">¿Qué tipo de datos pueden usar?</h2>
@@ -952,21 +999,6 @@
 <li>Predicciones de actividad biológica generadas por modelos de <em>machine learning</em> entrenados con datos relevantes.</li>
 </ul>
 <p>No se busca una única respuesta correcta, sino una propuesta sólida, justificada y realista que demuestre la capacidad de integrar las herramientas del curso para apoyar decisiones en un contexto de descubrimiento temprano de compuestos activos.</p>
-<!--
-## ¿Cuál es la modalidad de entrega?
-
-**Presentación oral:**  
-Jueves 26 de junio y martes 01 de julio durante la clase.  
-Cada grupo tendrá **15 minutos para presentar** su trabajo, seguidos de **5 minutos para preguntas**.
-
-**Entrega escrita:**  
-Enviar la notebook (formato `.ipynb`, preferentemente desde Google Colab) **antes del miércoles 25 de junio a las 23:59 hs** a los siguientes mails:
-
-- fernan@iib.unsam.edu.ar
-- jglavina@iib.unsam.edu.ar
-- gromer@iib.unsam.edu.ar
-- mdidiergarnham@iib.unsam.edu.ar
--->
 <h2 id="como-armar-la-presentacion">¿Cómo armar la presentación?</h2>
 <p>La presentación debe reflejar el recorrido del grupo a lo largo del proyecto, mostrando tanto el enfoque como la implementación. Para eso, se recomienda incluir:</p>
 <ul>
@@ -984,15 +1016,15 @@ Enviar la notebook (formato `.ipynb`, preferentemente desde Google Colab) **ante
 <li>El uso apropiado del código, bien comentado y organizado.</li>
 <li>La capacidad de conectar los análisis con una toma de decisión fundamentada.</li>
 </ul>
-<hr>
-<!-- 
-## Resumen
-
-- **Modalidad de resolución:** En grupos  
-- **Selección de datos:** Cada grupo elige su propio set de datos químico con justificación  
-- **Fecha de entrega escrita:** Miércoles 25 de junio – 23:59 hs  
-- **Modalidad de entrega escrita:** Envío de la notebook (`.ipynb`) por mail  
-- **Presentación oral:** Jueves 26 de junio y martes 01 de julio (en clase). 15 minutos de exposición + 5 minutos de preguntas
+<h2 id="resumen">Resumen</h2>
+<ul>
+<li><strong>Modalidad de resolución:</strong> En grupos  </li>
+<li><strong>Selección de datos:</strong> Cada grupo elige su propio set de datos químico con justificación  </li>
+<li><strong>Fecha de entrega escrita:</strong> Miércoles 25 de junio – 23:59 hs  </li>
+<li><strong>Modalidad de entrega escrita:</strong> Envío de la notebook (<code>.ipynb</code>) por mail  </li>
+<li><strong>Presentación oral:</strong> Jueves 26 de junio y martes 01 de julio (en clase). 15 minutos de exposición + 5 minutos de preguntas</li>
+</ul>
+<!--
 
 # Cierre de la materia
 En breve recibirán por mail los certificados de aprobación con la nota numérica.
