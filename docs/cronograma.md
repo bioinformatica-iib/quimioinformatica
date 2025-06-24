@@ -24,6 +24,6 @@ Este cronograma puede estar sujeto a modificaciones.
 | Jueves, 12 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 10 - TP5. Uso de Machine Learning en Quimioinformática](practicos/TP05/index.md) |  J. Glavina | 
 | Martes, 17 Junio 2025 | 9:00 hs | :material-google-classroom: Virtual | Trabajo en grupos | |
 | Jueves, 19 Junio 2025 | 10:00 hs |	:material-google-classroom: Presencial | Clase 11 - Charla Invitado  | Dr. Alan Talevi |
-| Martes, 24 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 12 - Trabajo Integrador | F. Agüero |
-| Jueves, 26 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 13 - Trabajo Final | F. Agüero |
-| Martes, 01 Julio 2025 | 9:00 hs |	:material-google-classroom: Presencial | Clase 14 - Trabajo Final | F. Agüero |
+| Martes, 24 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 12 - Trabajo Integrador](practicos/TP_Integrador/index.md) | F. Agüero |
+| Jueves, 26 Junio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 13 - Trabajo Final](practicos/TP_final/index.md) | F. Agüero |
+| Martes, 01 Julio 2025 | 9:00 hs |	:material-google-classroom: Presencial | [Clase 14 - Trabajo Final](practicos/TP_final/index.md) | F. Agüero |

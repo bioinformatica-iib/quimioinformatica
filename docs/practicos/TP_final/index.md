@@ -2,8 +2,26 @@
 
 <center> <h1> Consignas del Trabajo Práctico Final </h1> </center>
 
+<!--
 !!! abstract "En este formulario pueden cargar el tema seleccionado para el trabajo final (Subir una respuesta por grupo)."
 [:fontawesome-solid-download: Formulario para el tema del trabajo final](https://forms.gle/q6cAneUpSt39NxrD9){ .md-button .md-button--primary }
+-->
+
+!!! abstract "Modalidad de entrega"
+
+**Presentación oral:**  
+Jueves 26 de junio y martes 01 de julio durante la clase.  
+Cada grupo tendrá **15 minutos para presentar** su trabajo, seguidos de **5 minutos para preguntas**.
+
+**Entrega escrita:**  
+Enviar la notebook (formato `.ipynb`, preferentemente desde Google Colab) **antes del miércoles 25 de junio a las 23:59 hs** a los siguientes mails:
+
+- fernan@iib.unsam.edu.ar
+- jglavina@iib.unsam.edu.ar
+- gromer@iib.unsam.edu.ar
+- mdidiergarnham@iib.unsam.edu.ar
+
+---
 
 ## ¿En qué consiste el trabajo final?
 
@@ -49,21 +67,7 @@ Se espera que los resultados obtenidos permitan priorizar un conjunto de compues
 
 No se busca una única respuesta correcta, sino una propuesta sólida, justificada y realista que demuestre la capacidad de integrar las herramientas del curso para apoyar decisiones en un contexto de descubrimiento temprano de compuestos activos.
 
-<!--
-## ¿Cuál es la modalidad de entrega?
 
-**Presentación oral:**  
-Jueves 26 de junio y martes 01 de julio durante la clase.  
-Cada grupo tendrá **15 minutos para presentar** su trabajo, seguidos de **5 minutos para preguntas**.
-
-**Entrega escrita:**  
-Enviar la notebook (formato `.ipynb`, preferentemente desde Google Colab) **antes del miércoles 25 de junio a las 23:59 hs** a los siguientes mails:
-
-- fernan@iib.unsam.edu.ar
-- jglavina@iib.unsam.edu.ar
-- gromer@iib.unsam.edu.ar
-- mdidiergarnham@iib.unsam.edu.ar
--->
 ## ¿Cómo armar la presentación?
 
 La presentación debe reflejar el recorrido del grupo a lo largo del proyecto, mostrando tanto el enfoque como la implementación. Para eso, se recomienda incluir:
@@ -84,8 +88,6 @@ Se valorará especialmente:
 - El uso apropiado del código, bien comentado y organizado.
 - La capacidad de conectar los análisis con una toma de decisión fundamentada.
 
----
-<!-- 
 ## Resumen
 
 - **Modalidad de resolución:** En grupos  
@@ -93,6 +95,8 @@ Se valorará especialmente:
 - **Fecha de entrega escrita:** Miércoles 25 de junio – 23:59 hs  
 - **Modalidad de entrega escrita:** Envío de la notebook (`.ipynb`) por mail  
 - **Presentación oral:** Jueves 26 de junio y martes 01 de julio (en clase). 15 minutos de exposición + 5 minutos de preguntas
+
+<!--
 
 # Cierre de la materia
 En breve recibirán por mail los certificados de aprobación con la nota numérica.
