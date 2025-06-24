@@ -10,10 +10,8 @@
 * Datos [:fontawesome-solid-download: HIA-dataset.csv](material/HIA-dataset.csv)
 * Datos [:fontawesome-solid-download: FDA-validation.csv](material/FDA-validation.csv)
 
-<!--
 [:fontawesome-solid-download: Resolución](https://colab.research.google.com/drive/1KcMcjjIA9meVLNOTBaqauirx0qccLrsU?usp=sharing){ .md-button .md-button--primary }
 * Paper [:fontawesome-solid-download: PDF](material/Daiana(2016).pdf)
---> 
 
 # Introducción
 En el campo de la quimioinformática, el estudio de las propiedades TPSA (Área de Superficie Polar Total) y LogP (Logaritmo del Coeficiente de Partición Octanol-Agua) ha demostrado ser crucial en la evaluación y predicción de las características y comportamientos de los compuestos químicos. 
